@@ -7,6 +7,9 @@ You can click by bringing together your index and middle tip
 
 We end up providing you with your points, and a progress bar to keep you motivated
 
+Video showing its working:
+https://www.linkedin.com/posts/avneets2103_project-github-cv-activity-7079411224345554944-0VFE?utm_source=share&utm_medium=member_desktop
+
 Dependencies:
 cv2, csv, cvzone, time
 i.e. you have to 
