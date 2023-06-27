@@ -14,6 +14,8 @@ pip install <module_name>
 before running this
 
 For more info the docs are here:
+
 https://pypi.org/project/opencv-python/
+
 https://github.com/cvzone/cvzone
 
